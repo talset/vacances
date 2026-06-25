@@ -62,6 +62,16 @@ Five travel-specific skills are registered under `coree/.claude/skills/` and ava
 
 Use these skills (via `/skill-name` or the Skill tool) instead of ad-hoc web searches when the user asks about getting around Korea or booking transport.
 
+## Korean text in the planning
+
+Whenever Korean characters (한글) appear in `coree/planning.md`, always pair them with a readable French or romanized equivalent. Format: `Nom lisible (한국어)` — never write Korean alone without context. This applies to all place names, station names, bus stops, dish names, etc.
+
+Examples:
+- ✅ `Terminal de bus de Sokcho (속초버스터미널)`
+- ✅ `Ligne 4 (사호선)`
+- ✅ `Sogong Park – entrée du parc (설악산소공원)`
+- ❌ `속초버스터미널` alone with no French/romanized label
+
 ## Gitignore
 
 `coree/imgs/originals/` and generated output files (`planning.docx`, `planning.md` at root if stale) are git-ignored. Check `.gitignore` before committing new files.
