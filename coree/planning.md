@@ -1,6 +1,6 @@
-# 🇰🇷 Planning Corée du Sud – 19 jours (fin septembre / début octobre)
+# 🇰🇷 Planning Corée du Sud – 18 jours (fin septembre / début octobre)
 
-> **Période** : ~25 septembre – ~13 octobre
+> **Période** : ~25 septembre – ~12 octobre
 > **Style** : Photographie, randonnée, culture, K-pop, détente
 > **Transports** : KTX + bus express + métro + T-money. Voiture uniquement à Jeju.
 > **Rythme** : Départ ~8h, retour ~19h (ou après resto). Journées remplies sans courir.
@@ -17,21 +17,21 @@
 
 ---
 
-## 💰 Budget estimatif — 2 personnes · 19 jours
+## 💰 Budget estimatif — 2 personnes · 18 jours
 
 > Base : €1 ≈ 1 450 ₩ · Septembre–Octobre 2026
 
 | Poste | Pour 2 | Par personne | Base de calcul |
 |-------|--------|--------------|----------------|
 | ✈️ Vols Paris ↔ Séoul (AR) | **€2 600** | €1 300 | Vol nonstop (base convenue) |
-| 🏨 Hébergement · 18 nuits | **€1 700** | €850 | ~€95/nuit chambre double |
+| 🏨 Hébergement · 17 nuits | **€1 535** | €768 | ~€90/nuit chambre double |
 | 🍽️ Repas · resto midi + simple le soir | **€1 050** | €525 | ~€28/pers/jour |
-| 🚄 Transports interurbains | **€480** | €240 | KTX + bus + vols domestiques |
+| 🚄 Transports interurbains | **€452** | €226 | KTX + bus + vols domestiques |
 | 🚇 Transports locaux (métro, bus, taxi) | **€200** | €100 | T-money + taxis ponctuels |
-| 🚗 Location voiture Jeju · 4 jours | **€240** | €120 | ~€55/j + carburant |
+| 🚗 Location voiture Jeju · 3 jours | **€165** | €83 | ~€55/j + carburant |
 | 🎫 Entrées & activités | **€260** | €130 | Palais, obs., cable cars, vols... |
 | 🛍️ Divers · souvenirs, imprévus | **€300** | €150 | Cosmétiques, K-pop, shopping |
-| **TOTAL ESTIMÉ** | **~€6 830** | **~€3 415** | |
+| **TOTAL ESTIMÉ** | **~€6 560** | **~€3 280** | |
 
 ### Détail hébergement
 
@@ -40,21 +40,21 @@
 | Séoul (3 séjours cumulés) | 8 nuits | ~€760 (€95/nuit) |
 | Sokcho | 2 nuits | ~€130 (€65/nuit) |
 | Busan | 4 nuits | ~€360 (€90/nuit) |
-| Jeju (2 hôtels nord + sud) | 4 nuits | ~€380 (€95/nuit) |
-| **Total** | **18 nuits** | **~€1 630** |
+| Jeju (2 hôtels nord + sud) | 3 nuits | ~€285 (€95/nuit) |
+| **Total** | **17 nuits** | **~€1 535** |
 
 ### Détail transports interurbains
 
 | Trajet | Coût estimé (2 pers) |
 |--------|---------------------|
 | AREX Incheon ↔ Séoul (aller + retour) | ~€26 |
-| Bus express Séoul ↔ Sokcho (A/R) | ~€110 |
+| Bus express Séoul ↔ Sokcho (A/R) | ~€51 |
 | KTX Séoul ↔ Jeonju (A/R journée) | ~€75 |
 | KTX Séoul → Busan | ~€85 |
-| KTX Busan ↔ Gyeongju (A/R journée) | ~€42 |
-| Vol Busan → Jeju | ~€70 |
-| Vol Jeju → Séoul (Gimpo) | ~€70 |
-| **Total** | **~€478** |
+| KTX Busan ↔ Gyeongju (A/R journée) | ~€35 |
+| Vol Busan → Jeju | ~€90 |
+| Vol Jeju → Séoul (Gimpo) | ~€90 |
+| **Total** | **~€452** |
 
 ### Entrées principales
 
@@ -73,8 +73,8 @@
 ### Notes budget
 
 > 💡 **Repas** : ~€28/pers/jour — petit-déj convenience store (€3–4), déjeuner restaurant local bibimbap/ramen/kimbap (€10–12), dîner 7-Eleven / plat à emporter / street food (€5–7). Comptez ~5 soirs exception avec dîner au restaurant (galbi, fruits de mer à Busan, Seogwipo...) à ~€20/pers.
-> 💡 **T-money** : carte prépayée rechargeable ~€70–80/pers sur 19j, couvre bus + métro + convenience stores (inclus dans "transports locaux").
-> 💡 **Fourchette** : budget serré ~**€5 800** (hébergement économique, peu d'activités payantes) · budget confort+ ~**€8 000** (hôtels 4★, tous les optionnels, shopping).
+> 💡 **T-money** : carte prépayée rechargeable ~€70–80/pers sur 18j, couvre bus + métro + convenience stores (inclus dans "transports locaux").
+> 💡 **Fourchette** : budget serré ~**€5 600** (hébergement économique, peu d'activités payantes) · budget confort+ ~**€7 800** (hôtels 4★, tous les optionnels, shopping).
 
 ---
 
@@ -495,16 +495,16 @@ https://pastefile.owl.cycloid.io/99292222691688a267e7c58e38d3d75d.png
 
 ### Après-midi (13h30-18h)
 
-- **13h30 – Plage de Sokcho** 속초해수욕장 – détente / baignade, balade front de mer
-> 🚌 *Depuis Seoraksan :* bus retour → Sokcho centre (~15 min)
-
-![05dd31f139f530a74ad000b4fc821d6f](imgs/05dd31f139f530a74ad000b4fc821d6f.jpg)
-
-- Option 3 — Cheoksan Hot Spring** 척산온천 Zone thermale en périphérie de Sokcho. Bain de pieds en plein air (**footbath park**) dans une eau à 50°C riche en sodium et soufre — parfait pour récupérer après une journée de rando. L'accès au footbath est gratuit ou quasi-gratuit (₩1 000 / ~€0.70) ; spa intérieur et bains privés disponibles en supplément. [Avis/Photos](https://www.tripadvisor.fr/Attraction_Review-g317129-d7918004-Reviews-Cheoksan_Foot_Spa_Park-Sokcho_Gangwon_do.html)
+- **13h30 – Cheoksan Hot Spring** 척산온천 (Thermes de Cheoksan) – récupération après rando ⭐
+  Zone thermale en périphérie de Sokcho. Bain de pieds en plein air (**footbath park**) dans une eau à 50°C riche en sodium et soufre — parfait après une journée de rando. Spa intérieur et bains privés disponibles en supplément. [Avis/Photos](https://www.tripadvisor.fr/Attraction_Review-g317129-d7918004-Reviews-Cheoksan_Foot_Spa_Park-Sokcho_Gangwon_do.html)
   - 💴 Footbath **gratuit / ₩1 000 (~€0.70)** · Ouvert 24h/24
-  > 🚌 *Depuis Sokcho centre :* Bus **3 ou 3-1** → 5 min à pied · **327 Gwangwang-ro, Sokcho** · ~20 min depuis Seoraksan
+  > 🚌 *Depuis Seoraksan :* Bus retour → Sokcho centre (~15 min) · puis Bus **3 ou 3-1** → 5 min à pied · **327 Gwangwang-ro, Sokcho** · ~35 min total
 
 ![4f48cfa432d90590285e70861fe7a687](imgs/4f48cfa432d90590285e70861fe7a687.jpg)
+
+- **16h – Plage de Sokcho** 속초해수욕장 (Sokcho Beach) – balade front de mer, détente (~1h)
+
+![05dd31f139f530a74ad000b4fc821d6f](imgs/05dd31f139f530a74ad000b4fc821d6f.jpg)
 
 ---
 
