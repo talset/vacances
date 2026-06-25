@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "skillPath": "skills/agent-browser/SKILL.md",
+      "computedHash": "228f87d57035100d9dc6efcfc05aafd4b6e3962adacaa04b8217ab2fadb15dc8"
+    },
+    "google-flights": {
+      "source": "skillhq/flight-search",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "20bd61c2b20e2525e79804a80046071ddbad401c9b857ae1e36b3a04b363d89a"
+    }
+  }
+}

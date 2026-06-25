@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "express-bus-booking": {
+      "source": "nomadamas/k-skill",
+      "sourceType": "github",
+      "skillPath": "express-bus-booking/SKILL.md",
+      "computedHash": "2aa1552eeb00eab788a6acf407e25cfc40346ac249f4e01819395ddf575ddea3"
+    },
+    "flight-ticket-search": {
+      "source": "nomadamas/k-skill",
+      "sourceType": "github",
+      "skillPath": "flight-ticket-search/SKILL.md",
+      "computedHash": "fb19788924d1e6de1385423d37af58ae78f744f1a860825e1283e34638ea946d"
+    },
+    "kakao-map": {
+      "source": "nomadamas/k-skill",
+      "sourceType": "github",
+      "skillPath": "kakao-map/SKILL.md",
+      "computedHash": "850b1f92c76afd115d147b571b0cc5b4af7a68b61e6fe77722e0b50f0a4f5ce0"
+    },
+    "korean-transit-route": {
+      "source": "nomadamas/k-skill",
+      "sourceType": "github",
+      "skillPath": "korean-transit-route/SKILL.md",
+      "computedHash": "a0d7f49de1cc49eba9ae926afeed30befeb596c8e6d9680006c98e5bedec35f0"
+    },
+    "ktx-booking": {
+      "source": "nomadamas/k-skill",
+      "sourceType": "github",
+      "skillPath": "ktx-booking/SKILL.md",
+      "computedHash": "b824529ab9613f9f6651dc78d51915da6e6f764494a2ab68562d1ddecd2b90aa"
+    }
+  }
+}
