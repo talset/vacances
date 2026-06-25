@@ -157,4 +157,14 @@ Le script `resize-images.sh` les convertit en JPEG optimisé (~95% de réduction
 
 ```bash
 sudo apt-get install imagemagick
+
+```
+
+
+### Example update images
+
+```bash
+./update-images.sh --md coree/planning.md --dir coree/imgs
+./resize-images.sh coree/imgs
+./clean-images.sh --md coree/planning.md --dir coree/imgs
 ```
