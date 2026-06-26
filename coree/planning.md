@@ -26,8 +26,9 @@
 | 🚇 Transports locaux (métro, bus, taxi) | **€200** | €100 | T-money + taxis ponctuels |
 | 🚗 Location voiture Jeju · 3 jours | **€165** | €83 | ~€55/j + carburant |
 | 🎫 Entrées & activités | **€260** | €130 | Palais, obs., cable cars, vols... |
+| 📶 eSIM Ubigi · 10 Go / 30 jours | **€25** | €13 | Ubigi, code INSIDER (-10%), ~12,60€/pers |
 | 🛍️ Divers · souvenirs, imprévus | **€300** | €150 | Cosmétiques, K-pop, shopping |
-| **TOTAL ESTIMÉ** | **~€6 570** | **~€3 285** | |
+| **TOTAL ESTIMÉ** | **~€6 595** | **~€3 298** | |
 
 ### Détail vols
 
@@ -86,7 +87,7 @@
 | Séoul Sky Tower (Lotte World Tower) | ~€70 |
 | N Seoul Tower | ~€26 |
 | Téléphérique Sokcho + Seoraksan | ~€30 |
-| Blue Line Park Busan | ~€20 |
+| Blue Line Park Busan (Sky Capsule) | ~€34 |
 | Téléphérique Songdo Busan | ~€16 |
 | Palais & temples (Changdeokgung, Bulguksa...) | ~€40 |
 | Jeju (Folk Village, cascades, lava tube) | ~€45 |
@@ -160,6 +161,26 @@ Obligatoire pour louer une voiture à Jeju. Sans lui, la location sera refusée 
 3. Pas de compte nécessaire pour la navigation
 
 > 💡 **Kakao Map** est une alternative valable — même niveau de qualité. Les deux sont utilisés par les locaux ; Naver Map est légèrement plus complet pour les transports en commun.
+
+### 📶 À faire avant de partir — eSIM Ubigi
+
+Internet en Corée du Sud via eSIM — évite la carte SIM physique, s'active automatiquement à l'atterrissage.
+
+**Forfait :** 10 Go / 30 jours · 5G/4G · réseaux LGU+ et SK Telecom · hotspot autorisé · données uniquement (appels WhatsApp/Signal OK)
+
+**Achat :** [cellulardata.ubigi.com](https://cellulardata.ubigi.com) ou directement dans l'app Ubigi
+- Code promo première commande : **INSIDER** → **-10%**, soit **~12,60 €/pers** au lieu de 14 €
+- Achat anticipé possible jusqu'à **6 mois** avant le départ (Smartstart : la validité 30 jours démarre à l'arrivée en Corée, pas à l'achat)
+
+**Setup (via l'app — recommandé) :** [→ tuto officiel](https://cellulardata.ubigi.com/fr/android/install-esim-app/)
+1. Télécharger **l'app Ubigi** (iOS / Android) + créer un compte
+2. Acheter le forfait 10 Go / 30 jours avec le code **INSIDER**
+3. Dans l'app, sélectionner "Acheter une nouvelle eSIM Ubigi" → l'eSIM s'installe directement sur le téléphone (pas besoin de QR code ni de 2ᵉ appareil)
+4. ⚠️ **Avant le départ** : désactiver la ligne Ubigi dans les réglages, laisser les données sur la SIM principale
+5. ✅ **À l'arrivée en Corée** : activer la ligne Ubigi + la définir comme SIM préférée pour les données → Smartstart démarre automatiquement
+6. **Au retour** : désactiver Ubigi, revenir aux réglages initiaux
+
+> 💡 Vérifier la compatibilité eSIM de son téléphone : composer **\*#06#** — si un code EID apparaît, l'appareil est compatible.
 
 ---
 
@@ -629,12 +650,31 @@ Total des deux: **3h**
 
 ![](imgs/temple-haedong-yonggungsa-1003-en-face-d.jpg)
 
-- **10h30 – Blue Line capsule** une capsule qui se déplace tout en admirant le mystérieux paysage côtier depuis un rail aérien
- - 블루라인파크 → Haeundae (~30min, ~20€/2, réserver en avance) – [Site](https://www.bluelinepark.com/eng/tourFacilityList.do)
-> 🚕 *Depuis Haedong :* taxi → station Songjeong 송정역 (~15 min)
+- **10h30 – Parc Blue Line (블루라인파크)** : Cheongsapo → Mipo, deux options au choix
+  - **Option A — Sky Capsule** 🚡 : rail aérien côtier (~30 min, vue sur mer)
+    - **Prix :** 50 000 ₩/capsule 2 pers (≈ €34) · 55 000 ₩ pour 3 · 60 000 ₩ pour 4
+    - **Réservation :** [bluelinepark.com/eng/booking.do](https://www.bluelinepark.com/eng/booking.do) — choisir **"Sky Capsule(Cheongsapo)"**. Créneaux N+4 ouverts chaque mardi à 7h00.
+    - ⚠️ Trajet fixe sans arrêt — on reste dans la capsule jusqu'à Mipo.
+  - **Option B — Marche côtière gratuite** 🚶 : **Dalmaji Road (달맞이길)** (~3-4 km, ~1h)
+    - Chemin boisé sur la colline Dalmaji (달맞이언덕) longeant la mer — pins, vues panoramiques sur la côte, cafés et galeries d'art
+    - Passe par le tunnel Dalmaji (포토존) et l'observatoire Haewol (해월정, skywalk en croissant de lune)
+    - Gratuit · arrivée directement côté plage Haeundae
+    - 💡 Peut se combiner : marche à l'aller, capsule au retour (ou inversement)
+  - **Politique d'annulation :**
+    | Délai avant embarquement | Remboursement |
+    |---|---|
+    | J-3 et plus | 100 % (gratuit) |
+    | J-2 | 80 % |
+    | J-1 | 70 % |
+    | Jour J (avant l'heure) | 50 % |
+    | Après l'heure de départ | 0 % (même si absent) |
+    - ℹ️ Remboursement sous 5 jours ouvrés · Modification impossible : annuler et re-réserver · Avec un pass : annulation possible uniquement J-3 minimum
+> 🚕 *Depuis Haedong :* taxi → Cheongsapo (청사포, station Sky Capsule) (~10 min) — plus proche que Songjeong
 
 
 ![](imgs/balade-en-capsule-sur-la-blue-linereserv.jpg)
+
+![ae2e52aa1828bcb16e5d98a43a9cea53](imgs/ae2e52aa1828bcb16e5d98a43a9cea53.jpg)
 
 ### Après-midi (11h-17h)
 
@@ -737,10 +777,21 @@ TODO: a verifier https://www.youtube.com/watch?v=Ozg-lqtxuIA
 
 ### Soirée (16h30-19h30)
 
-- **16h30 – Hwangnyeong Mountain Observatory** 황령산전망대 – coucher de soleil (~1h30)
-> 🚇 *Depuis Songdo :* métro → 연산역 Yeonsan ou 부산시민공원역 Busan Hall + petit bus vert sortie 6
+- **16h30 – Hwangnyeong Mountain Observatory** 황령산전망대 – coucher de soleil (~1h30) – [Maps](https://maps.app.goo.gl/Us7DS9cTd83QTCcu9)
+
+  Montagne centrale de Busan (427m) avec **4 belvédères** accessibles facilement — pas besoin de faire la randonnée complète. Le meilleur point de vue est le **grand deck en bois près du beacon d'incendie** (observatoire principal) : plateforme multi-niveaux à 360°, vue sur toute la ville, Haeundae Beach et le pont de Gwangalli. Idéal pour le coucher de soleil. Il y a aussi un café couvert (View Lounge) juste avant, avec vue sur la mer.
+
+  **Sans randonnée — option la plus simple :**
+  - 🚕 Taxi depuis Songdo jusqu'au **parking nord de Hwangnyeongsan** (황령산 주차장) — ~25 min
+  - Depuis le parking : **10–15 min à pied** sur des escaliers en bois balisés → premier belvédère (View Lounge + café)
+  - Encore **2–3 min** à droite → Observatory deck (fire beacon) — le meilleur point de vue
+  - ⏱️ Comptez ~30 min sur place, retour taxi ou bus
+
+  > 🚇 *Alternative transports en commun depuis Songdo :* métro → **연산역 Yeonsan** ou **부산시민공원역 Busan City Hall** (Ligne 1 orange) + bus vert local + ~15 min à pied jusqu'au parking
 
 ![](imgs/hwangnyeong-mountain-observatorycoucher-.jpg)
+
+![46e24d8c502a07cbe6bb97cde622e11c](imgs/46e24d8c502a07cbe6bb97cde622e11c.jpg)
 
 > **Optionnel :** Temple Beomeosa 범어사 (nord Busan, 30min métro) ou Hurshimchung Spa 허심청 (sources chaudes)
 
