@@ -789,9 +789,7 @@ TODO: a verifier https://www.youtube.com/watch?v=Ozg-lqtxuIA
 
   > 🚇 *Alternative transports en commun depuis Songdo :* métro → **연산역 Yeonsan** ou **부산시민공원역 Busan City Hall** (Ligne 1 orange) + bus vert local + ~15 min à pied jusqu'au parking
 
-![](imgs/hwangnyeong-mountain-observatorycoucher-.jpg)
-
-![46e24d8c502a07cbe6bb97cde622e11c](imgs/46e24d8c502a07cbe6bb97cde622e11c.png)
+![ddb070afa622fe8b2f23bb1db382c77c](imgs/ddb070afa622fe8b2f23bb1db382c77c.jpg)
 
 > **Optionnel :** Temple Beomeosa 범어사 (nord Busan, 30min métro) ou Hurshimchung Spa 허심청 (sources chaudes)
 
