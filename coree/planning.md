@@ -791,7 +791,7 @@ TODO: a verifier https://www.youtube.com/watch?v=Ozg-lqtxuIA
 
 ![](imgs/hwangnyeong-mountain-observatorycoucher-.jpg)
 
-![46e24d8c502a07cbe6bb97cde622e11c](imgs/46e24d8c502a07cbe6bb97cde622e11c.jpg)
+![46e24d8c502a07cbe6bb97cde622e11c](imgs/46e24d8c502a07cbe6bb97cde622e11c.png)
 
 > **Optionnel :** Temple Beomeosa 범어사 (nord Busan, 30min métro) ou Hurshimchung Spa 허심청 (sources chaudes)
 
